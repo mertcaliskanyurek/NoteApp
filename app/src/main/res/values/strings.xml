@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+
+    <!-- Errors -->
+    <string name="err_field_cannot_be_blank">This field cannot be blank</string>
+    <string name="err_general">Something went wrong. Try again later.</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="undo">Undo</string>
+    <string name="note_title">Title</string>
+    <string name="note_text">Text</string>
+    <string name="note_image_url">Image Url</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+</resources>
